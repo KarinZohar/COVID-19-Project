@@ -1,2 +1,2 @@
-# COVID-19
+# COVID-19 Project
 The effect of the corona virus (COVID-19) on WW health and economy
